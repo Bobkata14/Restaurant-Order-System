@@ -1,0 +1,64 @@
+MAJOR PROJECT: "Restaurant Order System"
+🎯 Objective:
+
+Create a program that displays a restaurant order and calculates the total price.
+
+📋 Requirements:
+
+Create variables for:
+
+Restaurant information:
+restaurant_name
+Customer information:
+customer_name
+Items:
+
+At least 3 items:
+
+product1_name
+product1_price
+product1_quantity
+
+and the same for the others.
+
+Calculations:
+
+Calculate:
+
+total1
+total2
+total3
+grand_total
+Bonus:
+
+Add:
+
+is_delivery = True
+delivery_price = 5.00
+
+if there is delivery, add it to the total.
+
+(for now, just use a variable, without an if statement)
+
+🖥️ Expected output:
+--- Food Palace ---
+
+Customer: Boris
+
+Pizza x2 = 14.40 €
+Pasta x1 = 3.25 €
+Salad x3 = 12.00 €
+
+Delivery: 5.00 €
+
+-------------------
+Grand Total: 34.65 €
+🧠 Requirements:
+
+✔️ use f-strings
+✔️ use .2f
+✔️ use variables
+✔️ use arithmetic operations
+✔️ make it look nice
+
+Translated with DeepL.com (free version)
